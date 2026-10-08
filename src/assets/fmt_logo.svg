@@ -1,0 +1,29 @@
+<svg viewBox="0 0 320 80" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Clean High-Tech Monogram Badge (FMT) -->
+  <g id="badge">
+    <!-- Outer Rounded Base with subtle border -->
+    <rect x="6" y="10" width="60" height="60" rx="16" fill="#0F172A" />
+    <rect x="6.5" y="10.5" width="59" height="59" rx="15.5" stroke="#00A3FF" stroke-opacity="0.4" stroke-width="1.2" />
+    
+    <!-- Modern Geometric Tech Monogram: F - M - T Interlock -->
+    <!-- Letter F -->
+    <path d="M19 25 H33 V29 H23.5 V37 H31 V41 H23.5 V55 H19 V25 Z" fill="#FFFFFF" />
+    <!-- Letter M / Discovery Chevron in Cyan -->
+    <path d="M34 25 L41 40 L48 25 H53 V55 H49 V34 L42.5 47 H39.5 L33 34 V55 H29 V45 L34 25 Z" fill="#00C2FF" />
+    <!-- Letter T Accent Top Bar -->
+    <circle cx="53" cy="27" r="3" fill="#00E5FF" />
+  </g>
+
+  <!-- Typography: FIND MY TECH -->
+  <g id="wordmark">
+    <!-- FIND -->
+    <text x="82" y="38" fill="#0F172A" font-family="'Space Grotesk', -apple-system, BlinkMacSystemFont, sans-serif" font-size="20" font-weight="800" letter-spacing="2">FIND</text>
+    <!-- MY -->
+    <text x="138" y="38" fill="#0080FF" font-family="'Space Grotesk', -apple-system, BlinkMacSystemFont, sans-serif" font-size="20" font-weight="900" letter-spacing="2">MY</text>
+    <!-- TECH -->
+    <text x="178" y="38" fill="#0F172A" font-family="'Space Grotesk', -apple-system, BlinkMacSystemFont, sans-serif" font-size="20" font-weight="800" letter-spacing="2">TECH</text>
+    
+    <!-- Tagline: CONSUMER ELECTRONICS DISCOVERY -->
+    <text x="83" y="55" fill="#64748B" font-family="'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, sans-serif" font-size="8.5" font-weight="600" letter-spacing="3.2">CONSUMER ELECTRONICS</text>
+  </g>
+</svg>

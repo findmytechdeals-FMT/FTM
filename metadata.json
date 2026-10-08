@@ -1,0 +1,6 @@
+{
+  "name": "Find My Tech - Consumer Electronics Discovery",
+  "description": "Discover, compare, and find the best consumer electronics and tech deals across top retailers with Find My Tech.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
